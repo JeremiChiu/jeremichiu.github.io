@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-01-27T17:40:39-08:00</updated><id>http://localhost:4000/</id><title type="html">Jeremi Chiu</title><subtitle>Jeremi Chiu's personal website showcasing a portfolio of projects and hobbies.</subtitle><author><name>Jeremi Chiu</name></author><entry><title type="html">Welcome to Jekyll!</title><link href="http://localhost:4000/jekyll/update/welcome-to-jekyll/" rel="alternate" type="text/html" title="Welcome to Jekyll!" /><published>2018-01-21T15:23:40-08:00</published><updated>2018-01-21T15:23:40-08:00</updated><id>http://localhost:4000/jekyll/update/welcome-to-jekyll</id><content type="html" xml:base="http://localhost:4000/jekyll/update/welcome-to-jekyll/">&lt;p&gt;You’ll find this post in your &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-01-27T18:14:46-08:00</updated><id>http://localhost:4000/</id><title type="html">Jeremi Chiu</title><subtitle>Jeremi Chiu's personal website showcasing a portfolio of projects and hobbies.</subtitle><author><name>Jeremi Chiu</name></author><entry><title type="html">Welcome to Jekyll!</title><link href="http://localhost:4000/jekyll/update/welcome-to-jekyll/" rel="alternate" type="text/html" title="Welcome to Jekyll!" /><published>2018-01-21T15:23:40-08:00</published><updated>2018-01-21T15:23:40-08:00</updated><id>http://localhost:4000/jekyll/update/welcome-to-jekyll</id><content type="html" xml:base="http://localhost:4000/jekyll/update/welcome-to-jekyll/">&lt;p&gt;You’ll find this post in your &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
 
 &lt;p&gt;To add new posts, simply add a file in the &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory that follows the convention &lt;code class=&quot;highlighter-rouge&quot;&gt;YYYY-MM-DD-name-of-post.ext&lt;/code&gt; and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
 
@@ -17,14 +17,14 @@
 &lt;figure class=&quot;half full&quot;&gt;
   
     
-      &lt;a href=&quot;http://localhost:4000/PersonalProjects/Food/Strudel/01.JPG&quot; title=&quot;&quot;&gt;
-        &lt;img src=&quot;http://localhost:4000/PersonalProjects/Food/Strudel/01.JPG&quot; alt=&quot;&quot; /&gt;
+      &lt;a href=&quot;http://localhost:4000/images/PersonalProjects/Food/Strudel/01.JPG&quot; title=&quot;&quot;&gt;
+        &lt;img src=&quot;http://localhost:4000/images/PersonalProjects/Food/Strudel/01.JPG&quot; alt=&quot;&quot; /&gt;
       &lt;/a&gt;
     
   
     
-      &lt;a href=&quot;http://localhost:4000/PersonalProjects/Food/Strudel/02.JPG&quot; title=&quot;&quot;&gt;
-        &lt;img src=&quot;http://localhost:4000/PersonalProjects/Food/Strudel/02.JPG&quot; alt=&quot;&quot; /&gt;
+      &lt;a href=&quot;http://localhost:4000/images/PersonalProjects/Food/Strudel/02.JPG&quot; title=&quot;&quot;&gt;
+        &lt;img src=&quot;http://localhost:4000/images/PersonalProjects/Food/Strudel/02.JPG&quot; alt=&quot;&quot; /&gt;
       &lt;/a&gt;
     
   
@@ -39,8 +39,8 @@
 &lt;figure class=&quot; full&quot;&gt;
   
     
-      &lt;a href=&quot;http://localhost:4000/PersonalProjects/Food/Strudel/03.JPG&quot; title=&quot;&quot;&gt;
-        &lt;img src=&quot;http://localhost:4000/PersonalProjects/Food/Strudel/03.JPG&quot; alt=&quot;&quot; /&gt;
+      &lt;a href=&quot;http://localhost:4000/images/PersonalProjects/Food/Strudel/03.JPG&quot; title=&quot;&quot;&gt;
+        &lt;img src=&quot;http://localhost:4000/images/PersonalProjects/Food/Strudel/03.JPG&quot; alt=&quot;&quot; /&gt;
       &lt;/a&gt;
     
   
@@ -55,14 +55,14 @@
 &lt;figure class=&quot;half full&quot;&gt;
   
     
-      &lt;a href=&quot;http://localhost:4000/PersonalProjects/Food/Strudel/04.JPG&quot; title=&quot;&quot;&gt;
-        &lt;img src=&quot;http://localhost:4000/PersonalProjects/Food/Strudel/04.JPG&quot; alt=&quot;&quot; /&gt;
+      &lt;a href=&quot;http://localhost:4000/images/PersonalProjects/Food/Strudel/04.JPG&quot; title=&quot;&quot;&gt;
+        &lt;img src=&quot;http://localhost:4000/images/PersonalProjects/Food/Strudel/04.JPG&quot; alt=&quot;&quot; /&gt;
       &lt;/a&gt;
     
   
     
-      &lt;a href=&quot;http://localhost:4000/PersonalProjects/Food/Strudel/05.JPG&quot; title=&quot;&quot;&gt;
-        &lt;img src=&quot;http://localhost:4000/PersonalProjects/Food/Strudel/05.JPG&quot; alt=&quot;&quot; /&gt;
+      &lt;a href=&quot;http://localhost:4000/images/PersonalProjects/Food/Strudel/05.JPG&quot; title=&quot;&quot;&gt;
+        &lt;img src=&quot;http://localhost:4000/images/PersonalProjects/Food/Strudel/05.JPG&quot; alt=&quot;&quot; /&gt;
       &lt;/a&gt;
     
   
@@ -77,8 +77,8 @@
 &lt;figure class=&quot; full&quot;&gt;
   
     
-      &lt;a href=&quot;http://localhost:4000/PersonalProjects/Food/Strudel/06.JPG&quot; title=&quot;&quot;&gt;
-        &lt;img src=&quot;http://localhost:4000/PersonalProjects/Food/Strudel/06.JPG&quot; alt=&quot;&quot; /&gt;
+      &lt;a href=&quot;http://localhost:4000/images/PersonalProjects/Food/Strudel/06.JPG&quot; title=&quot;&quot;&gt;
+        &lt;img src=&quot;http://localhost:4000/images/PersonalProjects/Food/Strudel/06.JPG&quot; alt=&quot;&quot; /&gt;
       &lt;/a&gt;
     
   
@@ -120,20 +120,20 @@
 &lt;figure class=&quot;third full&quot;&gt;
   
     
-      &lt;a href=&quot;http://localhost:4000/PersonalProjects/EchoDetail/01.JPG&quot; title=&quot;2004 Toyota Echo Post Wash, pre claybar.&quot;&gt;
-        &lt;img src=&quot;http://localhost:4000/PersonalProjects/EchoDetail/01.JPG&quot; alt=&quot;After the car came out of the wand wash and before claying, front view&quot; /&gt;
+      &lt;a href=&quot;http://localhost:4000/images/PersonalProjects/EchoDetail/01.JPG&quot; title=&quot;2004 Toyota Echo Post Wash, pre claybar.&quot;&gt;
+        &lt;img src=&quot;http://localhost:4000/images/PersonalProjects/EchoDetail/01.JPG&quot; alt=&quot;After the car came out of the wand wash and before claying, front view&quot; /&gt;
       &lt;/a&gt;
     
   
     
-      &lt;a href=&quot;http://localhost:4000/PersonalProjects/EchoDetail/02.JPG&quot; title=&quot;2004 Toyota Echo Post Wash, pre claybar.&quot;&gt;
-        &lt;img src=&quot;http://localhost:4000/PersonalProjects/EchoDetail/02.JPG&quot; alt=&quot;After the car came out of the wand wash and before claying, side view&quot; /&gt;
+      &lt;a href=&quot;http://localhost:4000/images/PersonalProjects/EchoDetail/02.JPG&quot; title=&quot;2004 Toyota Echo Post Wash, pre claybar.&quot;&gt;
+        &lt;img src=&quot;http://localhost:4000/images/PersonalProjects/EchoDetail/02.JPG&quot; alt=&quot;After the car came out of the wand wash and before claying, side view&quot; /&gt;
       &lt;/a&gt;
     
   
     
-      &lt;a href=&quot;http://localhost:4000/PersonalProjects/EchoDetail/03.JPG&quot; title=&quot;2004 Toyota Echo Post Wash, pre claybar.&quot;&gt;
-        &lt;img src=&quot;http://localhost:4000/PersonalProjects/EchoDetail/03.JPG&quot; alt=&quot;After the car came out of the wand wash and before claying, rear view&quot; /&gt;
+      &lt;a href=&quot;http://localhost:4000/images/PersonalProjects/EchoDetail/03.JPG&quot; title=&quot;2004 Toyota Echo Post Wash, pre claybar.&quot;&gt;
+        &lt;img src=&quot;http://localhost:4000/images/PersonalProjects/EchoDetail/03.JPG&quot; alt=&quot;After the car came out of the wand wash and before claying, rear view&quot; /&gt;
       &lt;/a&gt;
     
   
@@ -150,8 +150,8 @@
 &lt;figure class=&quot; full&quot;&gt;
   
     
-      &lt;a href=&quot;http://localhost:4000/PersonalProjects/EchoDetail/04.JPG&quot; title=&quot;After Claybar Treatment.&quot;&gt;
-        &lt;img src=&quot;http://localhost:4000/PersonalProjects/EchoDetail/04.JPG&quot; alt=&quot;This is how my clay looked after the claybar treatment, kneaded at least 5 times. This claybar is now full of any contaminants (like brake dust, sap, overspray, and industrial pollution) that it picked up from the paint. Product shown here is Meguiars Claybar.&quot; /&gt;
+      &lt;a href=&quot;http://localhost:4000/images/PersonalProjects/EchoDetail/04.JPG&quot; title=&quot;After Claybar Treatment.&quot;&gt;
+        &lt;img src=&quot;http://localhost:4000/images/PersonalProjects/EchoDetail/04.JPG&quot; alt=&quot;This is how my clay looked after the claybar treatment, kneaded at least 5 times. This claybar is now full of any contaminants (like brake dust, sap, overspray, and industrial pollution) that it picked up from the paint. Product shown here is Meguiars Claybar.&quot; /&gt;
       &lt;/a&gt;
     
   
@@ -168,26 +168,26 @@
 &lt;figure class=&quot;third full&quot;&gt;
   
     
-      &lt;a href=&quot;http://localhost:4000/PersonalProjects/EchoDetail/07.JPG&quot; title=&quot;2004 Toyota Echo, roof shot, post Cleaner Wax.&quot;&gt;
-        &lt;img src=&quot;http://localhost:4000/PersonalProjects/EchoDetail/07.JPG&quot; alt=&quot;Shot of the roof after the first layer of Cleaner wax.&quot; /&gt;
+      &lt;a href=&quot;http://localhost:4000/images/PersonalProjects/EchoDetail/07.JPG&quot; title=&quot;2004 Toyota Echo, roof shot, post Cleaner Wax.&quot;&gt;
+        &lt;img src=&quot;http://localhost:4000/images/PersonalProjects/EchoDetail/07.JPG&quot; alt=&quot;Shot of the roof after the first layer of Cleaner wax.&quot; /&gt;
       &lt;/a&gt;
     
   
     
-      &lt;a href=&quot;http://localhost:4000/PersonalProjects/EchoDetail/08.JPG&quot; title=&quot;2004 Toyota Echo, roof shot, post Cleaner Wax.&quot;&gt;
-        &lt;img src=&quot;http://localhost:4000/PersonalProjects/EchoDetail/08.JPG&quot; alt=&quot;Another shot of the roof after the first layer of Cleaner wax.&quot; /&gt;
+      &lt;a href=&quot;http://localhost:4000/images/PersonalProjects/EchoDetail/08.JPG&quot; title=&quot;2004 Toyota Echo, roof shot, post Cleaner Wax.&quot;&gt;
+        &lt;img src=&quot;http://localhost:4000/images/PersonalProjects/EchoDetail/08.JPG&quot; alt=&quot;Another shot of the roof after the first layer of Cleaner wax.&quot; /&gt;
       &lt;/a&gt;
     
   
     
-      &lt;a href=&quot;http://localhost:4000/PersonalProjects/EchoDetail/09.JPG&quot; title=&quot;2004 Toyota Echo, side shot, post Cleaner Wax.&quot;&gt;
-        &lt;img src=&quot;http://localhost:4000/PersonalProjects/EchoDetail/09.JPG&quot; alt=&quot;Shot of the side after the first layer of Cleaner wax.&quot; /&gt;
+      &lt;a href=&quot;http://localhost:4000/images/PersonalProjects/EchoDetail/09.JPG&quot; title=&quot;2004 Toyota Echo, side shot, post Cleaner Wax.&quot;&gt;
+        &lt;img src=&quot;http://localhost:4000/images/PersonalProjects/EchoDetail/09.JPG&quot; alt=&quot;Shot of the side after the first layer of Cleaner wax.&quot; /&gt;
       &lt;/a&gt;
     
   
     
-      &lt;a href=&quot;http://localhost:4000/PersonalProjects/EchoDetail/10.JPG&quot; title=&quot;2004 Toyota Echo, rear shot, post Cleaner Wax.&quot;&gt;
-        &lt;img src=&quot;http://localhost:4000/PersonalProjects/EchoDetail/10.JPG&quot; alt=&quot;Shot of the rear after the first layer of Cleaner wax.&quot; /&gt;
+      &lt;a href=&quot;http://localhost:4000/images/PersonalProjects/EchoDetail/10.JPG&quot; title=&quot;2004 Toyota Echo, rear shot, post Cleaner Wax.&quot;&gt;
+        &lt;img src=&quot;http://localhost:4000/images/PersonalProjects/EchoDetail/10.JPG&quot; alt=&quot;Shot of the rear after the first layer of Cleaner wax.&quot; /&gt;
       &lt;/a&gt;
     
   
@@ -202,14 +202,14 @@
 &lt;figure class=&quot;half full&quot;&gt;
   
     
-      &lt;a href=&quot;http://localhost:4000/PersonalProjects/EchoDetail/05.JPG&quot; title=&quot;2004 Toyota Echo, post wash, pre tire dressing.&quot;&gt;
-        &lt;img src=&quot;http://localhost:4000/PersonalProjects/EchoDetail/05.JPG&quot; alt=&quot;2004 Toyota Echo clean tires, pre tire dressing.&quot; /&gt;
+      &lt;a href=&quot;http://localhost:4000/images/PersonalProjects/EchoDetail/05.JPG&quot; title=&quot;2004 Toyota Echo, post wash, pre tire dressing.&quot;&gt;
+        &lt;img src=&quot;http://localhost:4000/images/PersonalProjects/EchoDetail/05.JPG&quot; alt=&quot;2004 Toyota Echo clean tires, pre tire dressing.&quot; /&gt;
       &lt;/a&gt;
     
   
     
-      &lt;a href=&quot;http://localhost:4000/PersonalProjects/EchoDetail/06.JPG&quot; title=&quot;2004 Toyota Echo, post tire dressing.&quot;&gt;
-        &lt;img src=&quot;http://localhost:4000/PersonalProjects/EchoDetail/06.JPG&quot; alt=&quot;Nice black satin finish with a nice OEM off the lot look, without being overly greasy. Product used here is Griots Long Lasting Tire Dressing. One thin layer applied and as always less is more.&quot; /&gt;
+      &lt;a href=&quot;http://localhost:4000/images/PersonalProjects/EchoDetail/06.JPG&quot; title=&quot;2004 Toyota Echo, post tire dressing.&quot;&gt;
+        &lt;img src=&quot;http://localhost:4000/images/PersonalProjects/EchoDetail/06.JPG&quot; alt=&quot;Nice black satin finish with a nice OEM off the lot look, without being overly greasy. Product used here is Griots Long Lasting Tire Dressing. One thin layer applied and as always less is more.&quot; /&gt;
       &lt;/a&gt;
     
   
@@ -228,44 +228,44 @@
 &lt;figure class=&quot;third full&quot;&gt;
   
     
-      &lt;a href=&quot;http://localhost:4000/PersonalProjects/EchoDetail/11.JPG&quot; title=&quot;2004 Toyota Echo, hood shot, post Syn Wax.&quot;&gt;
-        &lt;img src=&quot;http://localhost:4000/PersonalProjects/EchoDetail/11.JPG&quot; alt=&quot;Shot of the hood after the first layer of Syn Wax.&quot; /&gt;
+      &lt;a href=&quot;http://localhost:4000/images/PersonalProjects/EchoDetail/11.JPG&quot; title=&quot;2004 Toyota Echo, hood shot, post Syn Wax.&quot;&gt;
+        &lt;img src=&quot;http://localhost:4000/images/PersonalProjects/EchoDetail/11.JPG&quot; alt=&quot;Shot of the hood after the first layer of Syn Wax.&quot; /&gt;
       &lt;/a&gt;
     
   
     
-      &lt;a href=&quot;http://localhost:4000/PersonalProjects/EchoDetail/12.JPG&quot; title=&quot;2004 Toyota Echo, roof shot, post Syn Wax.&quot;&gt;
-        &lt;img src=&quot;http://localhost:4000/PersonalProjects/EchoDetail/12.JPG&quot; alt=&quot;Shot of the hood after the first layer of Syn Wax.&quot; /&gt;
+      &lt;a href=&quot;http://localhost:4000/images/PersonalProjects/EchoDetail/12.JPG&quot; title=&quot;2004 Toyota Echo, roof shot, post Syn Wax.&quot;&gt;
+        &lt;img src=&quot;http://localhost:4000/images/PersonalProjects/EchoDetail/12.JPG&quot; alt=&quot;Shot of the hood after the first layer of Syn Wax.&quot; /&gt;
       &lt;/a&gt;
     
   
     
-      &lt;a href=&quot;http://localhost:4000/PersonalProjects/EchoDetail/13.JPG&quot; title=&quot;2004 Toyota Echo, rear/side shot, post Syn Wax.&quot;&gt;
-        &lt;img src=&quot;http://localhost:4000/PersonalProjects/EchoDetail/13.JPG&quot; alt=&quot;Shot of the hood after the first layer of Syn Wax.&quot; /&gt;
+      &lt;a href=&quot;http://localhost:4000/images/PersonalProjects/EchoDetail/13.JPG&quot; title=&quot;2004 Toyota Echo, rear/side shot, post Syn Wax.&quot;&gt;
+        &lt;img src=&quot;http://localhost:4000/images/PersonalProjects/EchoDetail/13.JPG&quot; alt=&quot;Shot of the hood after the first layer of Syn Wax.&quot; /&gt;
       &lt;/a&gt;
     
   
     
-      &lt;a href=&quot;http://localhost:4000/PersonalProjects/EchoDetail/14.JPG&quot; title=&quot;2004 Toyota Echo, side shot, post Syn Wax.&quot;&gt;
-        &lt;img src=&quot;http://localhost:4000/PersonalProjects/EchoDetail/14.JPG&quot; alt=&quot;Shot of the hood after the first layer of Syn Wax.&quot; /&gt;
+      &lt;a href=&quot;http://localhost:4000/images/PersonalProjects/EchoDetail/14.JPG&quot; title=&quot;2004 Toyota Echo, side shot, post Syn Wax.&quot;&gt;
+        &lt;img src=&quot;http://localhost:4000/images/PersonalProjects/EchoDetail/14.JPG&quot; alt=&quot;Shot of the hood after the first layer of Syn Wax.&quot; /&gt;
       &lt;/a&gt;
     
   
     
-      &lt;a href=&quot;http://localhost:4000/PersonalProjects/EchoDetail/15.JPG&quot; title=&quot;2004 Toyota Echo, side shot, post Syn Wax.&quot;&gt;
-        &lt;img src=&quot;http://localhost:4000/PersonalProjects/EchoDetail/15.JPG&quot; alt=&quot;Shot of the hood after the first layer of Syn Wax.&quot; /&gt;
+      &lt;a href=&quot;http://localhost:4000/images/PersonalProjects/EchoDetail/15.JPG&quot; title=&quot;2004 Toyota Echo, side shot, post Syn Wax.&quot;&gt;
+        &lt;img src=&quot;http://localhost:4000/images/PersonalProjects/EchoDetail/15.JPG&quot; alt=&quot;Shot of the hood after the first layer of Syn Wax.&quot; /&gt;
       &lt;/a&gt;
     
   
     
-      &lt;a href=&quot;http://localhost:4000/PersonalProjects/EchoDetail/16.JPG&quot; title=&quot;2004 Toyota Echo, side shot, post Syn Wax.&quot;&gt;
-        &lt;img src=&quot;http://localhost:4000/PersonalProjects/EchoDetail/16.JPG&quot; alt=&quot;Shot of the hood after the first layer of Syn Wax.&quot; /&gt;
+      &lt;a href=&quot;http://localhost:4000/images/PersonalProjects/EchoDetail/16.JPG&quot; title=&quot;2004 Toyota Echo, side shot, post Syn Wax.&quot;&gt;
+        &lt;img src=&quot;http://localhost:4000/images/PersonalProjects/EchoDetail/16.JPG&quot; alt=&quot;Shot of the hood after the first layer of Syn Wax.&quot; /&gt;
       &lt;/a&gt;
     
   
     
-      &lt;a href=&quot;http://localhost:4000/PersonalProjects/EchoDetail/17.JPG&quot; title=&quot;2004 Toyota Echo, hood shot, post Syn Wax.&quot;&gt;
-        &lt;img src=&quot;http://localhost:4000/PersonalProjects/EchoDetail/17.JPG&quot; alt=&quot;Shot of the hood after the first layer of Syn Wax.&quot; /&gt;
+      &lt;a href=&quot;http://localhost:4000/images/PersonalProjects/EchoDetail/17.JPG&quot; title=&quot;2004 Toyota Echo, hood shot, post Syn Wax.&quot;&gt;
+        &lt;img src=&quot;http://localhost:4000/images/PersonalProjects/EchoDetail/17.JPG&quot; alt=&quot;Shot of the hood after the first layer of Syn Wax.&quot; /&gt;
       &lt;/a&gt;
     
   
