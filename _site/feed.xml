@@ -1,0 +1,297 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-01-27T18:14:46-08:00</updated><id>http://localhost:4000/</id><title type="html">Jeremi Chiu</title><subtitle>Jeremi Chiu's personal website showcasing a portfolio of projects and hobbies.</subtitle><author><name>Jeremi Chiu</name></author><entry><title type="html">Welcome to Jekyll!</title><link href="http://localhost:4000/jekyll/update/welcome-to-jekyll/" rel="alternate" type="text/html" title="Welcome to Jekyll!" /><published>2018-01-21T15:23:40-08:00</published><updated>2018-01-21T15:23:40-08:00</updated><id>http://localhost:4000/jekyll/update/welcome-to-jekyll</id><content type="html" xml:base="http://localhost:4000/jekyll/update/welcome-to-jekyll/">&lt;p&gt;You’ll find this post in your &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
+
+&lt;p&gt;To add new posts, simply add a file in the &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory that follows the convention &lt;code class=&quot;highlighter-rouge&quot;&gt;YYYY-MM-DD-name-of-post.ext&lt;/code&gt; and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
+
+&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'Tom'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints 'Hi, Tom' to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;p&gt;Check out the &lt;a href=&quot;https://jekyllrb.com/docs/home&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://talk.jekyllrb.com/&quot;&gt;Jekyll Talk&lt;/a&gt;.&lt;/p&gt;</content><author><name>Jeremi Chiu</name></author><summary type="html">You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when a file is updated.</summary></entry><entry><title type="html">Austrian-Viennese Apfelstrudel</title><link href="http://localhost:4000/personal_projects/Apfelstrudel/" rel="alternate" type="text/html" title="Austrian-Viennese Apfelstrudel" /><published>2016-12-11T00:00:00-08:00</published><updated>2016-12-11T00:00:00-08:00</updated><id>http://localhost:4000/personal_projects/Apfelstrudel</id><content type="html" xml:base="http://localhost:4000/personal_projects/Apfelstrudel/">&lt;p&gt;After visiting the Tyrol (in German: Tirol) state of Austria for a snowboarding trip I fell in love with hot “apfelstudel mit vanillesoße” (in English: Apple Strudel with Vanilla sauce) after a good day out on the slopes. The vanilla sauce is a very creamy vanilla egg custard and tastes amazing paired with pretty much any dessert.&lt;/p&gt;
+
+&lt;p&gt;To start, we need to cut the apples into little cubes, I went with 1/4” cubes but some people thinly slice their apples or go with thicker cubes. The next step is to add your lemon juice, this prevents the apples from browning (the scientific reason, is the lemon juice deaminates the enzymes in the apples so that the oxygen and enzymes in the apple can’t react to make it brown). This also serves a second purpose in bringing out a bit of citrus tartness to the finished product. I combined the sugar, cinnamon, raisins, cranberries, and chopped walnuts and mixed it in with the bowl of diced apples.&lt;/p&gt;
+
+&lt;figure class=&quot;half full&quot;&gt;
+  
+    
+      &lt;a href=&quot;http://localhost:4000/images/PersonalProjects/Food/Strudel/01.JPG&quot; title=&quot;&quot;&gt;
+        &lt;img src=&quot;http://localhost:4000/images/PersonalProjects/Food/Strudel/01.JPG&quot; alt=&quot;&quot; /&gt;
+      &lt;/a&gt;
+    
+  
+    
+      &lt;a href=&quot;http://localhost:4000/images/PersonalProjects/Food/Strudel/02.JPG&quot; title=&quot;&quot;&gt;
+        &lt;img src=&quot;http://localhost:4000/images/PersonalProjects/Food/Strudel/02.JPG&quot; alt=&quot;&quot; /&gt;
+      &lt;/a&gt;
+    
+  
+  
+    &lt;figcaption&gt;
+&lt;/figcaption&gt;
+  
+&lt;/figure&gt;
+
+&lt;p&gt;I used pre-made puff pastry for ease of making the final product. Although I would have liked to have made my own puff pastry dough, there is some degree of extra work involved and in this case I needed to make the dessert quickly for a function. Maybe next time when I have time to plan on making a potluck dish. I also found out after the fact that you should add some breadcrumbs to the filling as that soaks up the juices that are secreted from the apples as they’re cooked leaving you with a flaky and non “soggy” end product. Although in this case the Vanilla Sauce hid the “sogginess” of the strudel I think the contrast of the crisp and flaky strudel with the creaminess of the vanilla sauce would have been more pronounced had I known to add breadcrumbs.&lt;/p&gt;
+
+&lt;figure class=&quot; full&quot;&gt;
+  
+    
+      &lt;a href=&quot;http://localhost:4000/images/PersonalProjects/Food/Strudel/03.JPG&quot; title=&quot;&quot;&gt;
+        &lt;img src=&quot;http://localhost:4000/images/PersonalProjects/Food/Strudel/03.JPG&quot; alt=&quot;&quot; /&gt;
+      &lt;/a&gt;
+    
+  
+  
+    &lt;figcaption&gt;
+&lt;/figcaption&gt;
+  
+&lt;/figure&gt;
+
+&lt;p&gt;After rolling out the puff pastry as thin as it can go, and adding the filling, I then rolled it up into a more traditional log style strudel and pinched the ends and centre of the dough together. The last step is to put it into the oven at 375F for about 25-30 minutes until the top crust is a golden brown.&lt;/p&gt;
+
+&lt;figure class=&quot;half full&quot;&gt;
+  
+    
+      &lt;a href=&quot;http://localhost:4000/images/PersonalProjects/Food/Strudel/04.JPG&quot; title=&quot;&quot;&gt;
+        &lt;img src=&quot;http://localhost:4000/images/PersonalProjects/Food/Strudel/04.JPG&quot; alt=&quot;&quot; /&gt;
+      &lt;/a&gt;
+    
+  
+    
+      &lt;a href=&quot;http://localhost:4000/images/PersonalProjects/Food/Strudel/05.JPG&quot; title=&quot;&quot;&gt;
+        &lt;img src=&quot;http://localhost:4000/images/PersonalProjects/Food/Strudel/05.JPG&quot; alt=&quot;&quot; /&gt;
+      &lt;/a&gt;
+    
+  
+  
+    &lt;figcaption&gt;
+&lt;/figcaption&gt;
+  
+&lt;/figure&gt;
+
+&lt;p&gt;The end product is of course what you see here. The only other finishing touch is to serve with Vanillesoße (or Vanillesosse depending on which German orthography rules you use).&lt;/p&gt;
+
+&lt;figure class=&quot; full&quot;&gt;
+  
+    
+      &lt;a href=&quot;http://localhost:4000/images/PersonalProjects/Food/Strudel/06.JPG&quot; title=&quot;&quot;&gt;
+        &lt;img src=&quot;http://localhost:4000/images/PersonalProjects/Food/Strudel/06.JPG&quot; alt=&quot;&quot; /&gt;
+      &lt;/a&gt;
+    
+  
+  
+    &lt;figcaption&gt;
+&lt;/figcaption&gt;
+  
+&lt;/figure&gt;
+
+&lt;h3 id=&quot;apfel-strudel-recipe&quot;&gt;Apfel Strudel Recipe&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;2 Sheets of pre made puff pastry/phyllo&lt;/li&gt;
+  &lt;li&gt;1/4c Raisins&lt;/li&gt;
+  &lt;li&gt;1/4c Dried Cranberries&lt;/li&gt;
+  &lt;li&gt;1/4c Chopped Walnuts&lt;/li&gt;
+  &lt;li&gt;4 tbsp Inlander rum&lt;/li&gt;
+  &lt;li&gt;5 or 6 Cooking apples&lt;/li&gt;
+  &lt;li&gt;3/4c Granulated sugar&lt;/li&gt;
+  &lt;li&gt;4 tbsp. Lemon Juice&lt;/li&gt;
+  &lt;li&gt;1/4 tsp. Cinnamon&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Bake at 375F for about 25-30 minutes&lt;/p&gt;
+
+&lt;h3 id=&quot;austrian-vanillesoßevanilla-sauce-recipe&quot;&gt;Austrian Vanillesoße/Vanilla Sauce recipe&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;4 Egg Yolks Beaten (save the egg whites to make meringues)&lt;/li&gt;
+  &lt;li&gt;1/2 Cup Sugar&lt;/li&gt;
+  &lt;li&gt;2 Cup Whole Milk&lt;/li&gt;
+  &lt;li&gt;1 Tbsp Pure Vanilla Extract&lt;/li&gt;
+&lt;/ul&gt;</content><author><name>Jeremi Chiu</name></author><category term="apples" /><category term="apfelstrudel" /><category term="cooking" /><category term="recipes" /><summary type="html">After visiting the Tyrol (in German: Tirol) state of Austria for a snowboarding trip I fell in love with hot “apfelstudel mit vanillesoße” (in English: Apple Strudel with Vanilla sauce) after a good day out on the slopes. The vanilla sauce is a very creamy vanilla egg custard and tastes amazing paired with pretty much any dessert.</summary></entry><entry><title type="html">Car Detailing 2004 Toyota Echo</title><link href="http://localhost:4000/personal_projects/Auto-Detailing/" rel="alternate" type="text/html" title="Car Detailing 2004 Toyota Echo" /><published>2016-11-05T00:00:00-07:00</published><updated>2016-11-05T00:00:00-07:00</updated><id>http://localhost:4000/personal_projects/Auto-Detailing</id><content type="html" xml:base="http://localhost:4000/personal_projects/Auto-Detailing/">&lt;p&gt;This is one of the first car detailing jobs I ever did when I started to get more interested in car detailing in 2013/2014.&lt;/p&gt;
+
+&lt;p&gt;I did this as a favour for a friend. I didn’t take too many pictures since the point of this exercise was to get my detailing chops up rather than documenting and making it an expose of my skills.&lt;/p&gt;
+
+&lt;p&gt;Model shown here is a 2004 Toyota Echo Sedan in Indigo Ink Pearl, otherwise known in Japan as the Toyota Vitz/Platz. I found it needed a lot of work but underneath all of that, with some elbow grease and a solid plan of attack you could still bring out what was underneath and get really good results that make it pop out. Not too bad for a 10 year old car that never had a full detailing job done on it before.&lt;/p&gt;
+
+&lt;figure class=&quot;third full&quot;&gt;
+  
+    
+      &lt;a href=&quot;http://localhost:4000/images/PersonalProjects/EchoDetail/01.JPG&quot; title=&quot;2004 Toyota Echo Post Wash, pre claybar.&quot;&gt;
+        &lt;img src=&quot;http://localhost:4000/images/PersonalProjects/EchoDetail/01.JPG&quot; alt=&quot;After the car came out of the wand wash and before claying, front view&quot; /&gt;
+      &lt;/a&gt;
+    
+  
+    
+      &lt;a href=&quot;http://localhost:4000/images/PersonalProjects/EchoDetail/02.JPG&quot; title=&quot;2004 Toyota Echo Post Wash, pre claybar.&quot;&gt;
+        &lt;img src=&quot;http://localhost:4000/images/PersonalProjects/EchoDetail/02.JPG&quot; alt=&quot;After the car came out of the wand wash and before claying, side view&quot; /&gt;
+      &lt;/a&gt;
+    
+  
+    
+      &lt;a href=&quot;http://localhost:4000/images/PersonalProjects/EchoDetail/03.JPG&quot; title=&quot;2004 Toyota Echo Post Wash, pre claybar.&quot;&gt;
+        &lt;img src=&quot;http://localhost:4000/images/PersonalProjects/EchoDetail/03.JPG&quot; alt=&quot;After the car came out of the wand wash and before claying, rear view&quot; /&gt;
+      &lt;/a&gt;
+    
+  
+  
+    &lt;figcaption&gt;This is a car detailing job that I did for a friend. Model shown here is a 2004 Toyota Echo Sedan, otherwise known in Japan as the Toyota Vitz/Platz
+&lt;/figcaption&gt;
+  
+&lt;/figure&gt;
+
+&lt;p&gt;Due to being on a tight budget and not exactly having every tool, and product needed. Or a designated area to do this for that matter, I needed to figure out what was reasonable and within my ability to do in order to clean and protect the car from the elements and to really get it to look good and show it’s true beauty.&lt;/p&gt;
+
+&lt;p&gt;After taking this car to a wand wash to get as much dirt, soil, and other stuff off as I could, I proceeded with an initial walk around and pre inspection. The regimen I was going to go with and plan of attack involved starting off with a claybar immediately after washing and then hitting the car with quick detailer to remove any clay residue and other stuff left behind.&lt;/p&gt;
+
+&lt;figure class=&quot; full&quot;&gt;
+  
+    
+      &lt;a href=&quot;http://localhost:4000/images/PersonalProjects/EchoDetail/04.JPG&quot; title=&quot;After Claybar Treatment.&quot;&gt;
+        &lt;img src=&quot;http://localhost:4000/images/PersonalProjects/EchoDetail/04.JPG&quot; alt=&quot;This is how my clay looked after the claybar treatment, kneaded at least 5 times. This claybar is now full of any contaminants (like brake dust, sap, overspray, and industrial pollution) that it picked up from the paint. Product shown here is Meguiars Claybar.&quot; /&gt;
+      &lt;/a&gt;
+    
+  
+  
+    &lt;figcaption&gt;This is how my clay looked after the claybar treatment. Kneaded at least 5 times to expose fresh clay but it’s now full of any contaminants (like brake dust, sap, overspray, and industrial pollution) that it picked up from being used on the paint. At this point it can only really be used for claying wheels so as to not scratch up the paintwork. Product shown here is Meguiars Claybar.
+&lt;/figcaption&gt;
+  
+&lt;/figure&gt;
+
+&lt;p&gt;Although I would have liked to have gone over it using Meguiars #105 to compound and #205 Finishing Polish to correct the paint, at that point in time, I had neither the skill, product, or equipment to do such a correction job.&lt;/p&gt;
+
+&lt;p&gt;Moving on, after finishing up with the claying part of the car, I then used Mothers California Gold Cleaner Wax to clean and smooth out as much of the the minor paint defects as possible. This included swirl marks, light scratches, and “hologramming”.&lt;/p&gt;
+
+&lt;figure class=&quot;third full&quot;&gt;
+  
+    
+      &lt;a href=&quot;http://localhost:4000/images/PersonalProjects/EchoDetail/07.JPG&quot; title=&quot;2004 Toyota Echo, roof shot, post Cleaner Wax.&quot;&gt;
+        &lt;img src=&quot;http://localhost:4000/images/PersonalProjects/EchoDetail/07.JPG&quot; alt=&quot;Shot of the roof after the first layer of Cleaner wax.&quot; /&gt;
+      &lt;/a&gt;
+    
+  
+    
+      &lt;a href=&quot;http://localhost:4000/images/PersonalProjects/EchoDetail/08.JPG&quot; title=&quot;2004 Toyota Echo, roof shot, post Cleaner Wax.&quot;&gt;
+        &lt;img src=&quot;http://localhost:4000/images/PersonalProjects/EchoDetail/08.JPG&quot; alt=&quot;Another shot of the roof after the first layer of Cleaner wax.&quot; /&gt;
+      &lt;/a&gt;
+    
+  
+    
+      &lt;a href=&quot;http://localhost:4000/images/PersonalProjects/EchoDetail/09.JPG&quot; title=&quot;2004 Toyota Echo, side shot, post Cleaner Wax.&quot;&gt;
+        &lt;img src=&quot;http://localhost:4000/images/PersonalProjects/EchoDetail/09.JPG&quot; alt=&quot;Shot of the side after the first layer of Cleaner wax.&quot; /&gt;
+      &lt;/a&gt;
+    
+  
+    
+      &lt;a href=&quot;http://localhost:4000/images/PersonalProjects/EchoDetail/10.JPG&quot; title=&quot;2004 Toyota Echo, rear shot, post Cleaner Wax.&quot;&gt;
+        &lt;img src=&quot;http://localhost:4000/images/PersonalProjects/EchoDetail/10.JPG&quot; alt=&quot;Shot of the rear after the first layer of Cleaner wax.&quot; /&gt;
+      &lt;/a&gt;
+    
+  
+  
+    &lt;figcaption&gt;This is how the car looked after the cleaner wax treatment. It’s looking better already but could still use a couple more layers of wax for more protection from the elements. If given the time I would have liked to have put 5 or 6 layers of synthetic wax on the car with a day in between each application to let it set, cure, and bind to the paint but the car is used as a daily driver so needed to be returned to my friend.
+&lt;/figcaption&gt;
+  
+&lt;/figure&gt;
+
+&lt;p&gt;Once I buffed all of that out I let it set/cure for about an hour while I grabbed some lunch and a lemonaid (recipe for my awesome lemonaid at the bottom). Just before grabbing lunch I decided to use my Tire Dressing Gel to make the tires pop out and let it set into the rubber so I didn’t get any sling when moving the car later.&lt;/p&gt;
+
+&lt;figure class=&quot;half full&quot;&gt;
+  
+    
+      &lt;a href=&quot;http://localhost:4000/images/PersonalProjects/EchoDetail/05.JPG&quot; title=&quot;2004 Toyota Echo, post wash, pre tire dressing.&quot;&gt;
+        &lt;img src=&quot;http://localhost:4000/images/PersonalProjects/EchoDetail/05.JPG&quot; alt=&quot;2004 Toyota Echo clean tires, pre tire dressing.&quot; /&gt;
+      &lt;/a&gt;
+    
+  
+    
+      &lt;a href=&quot;http://localhost:4000/images/PersonalProjects/EchoDetail/06.JPG&quot; title=&quot;2004 Toyota Echo, post tire dressing.&quot;&gt;
+        &lt;img src=&quot;http://localhost:4000/images/PersonalProjects/EchoDetail/06.JPG&quot; alt=&quot;Nice black satin finish with a nice OEM off the lot look, without being overly greasy. Product used here is Griots Long Lasting Tire Dressing. One thin layer applied and as always less is more.&quot; /&gt;
+      &lt;/a&gt;
+    
+  
+  
+    &lt;figcaption&gt;Nice black satin finish with a nice OEM off the lot look, without being overly greasy. Product used here is Griots Long Lasting Tire Dressing. One thin layer applied and as always less is more.
+&lt;/figcaption&gt;
+  
+&lt;/figure&gt;
+
+&lt;p&gt;After having lunch, relaxing a bit, and reenergizing I then decided to work on the interior of the car. Here I used Meguiars Interior detailer to get all of the plastics clean and back to the fresh off the lot OEM look. I even got the door jambs and where the trunk meets the interior. Its really the small things that show up after doing a job like this because your eyes tend to get drawn to areas that are different and not consistent just like wiping off spaghetti sauce splatter off the backsplash of your kitchen stove, you end up having the clean everything since it’s one spot that looks out of place and your eyes get drawn to it. Same principle applies here.&lt;/p&gt;
+
+&lt;p&gt;Using a couple tricks I learned from Larry Kosilla of AmmoNYC I got every nook and cranny of the interior plastics with a firm bristled mini paint brush and agitated as much of the dirt out as I could. It looked a hundred times better after that treatment. For the cloth seats although I would have liked to have used an extractor or at the very least a steam machine, again with no access to tools I wasn’t able to do more than a cursory vacuum of the seats and floormats. However I was able to use the interior detailer to clean the pedals and get off most of the dirt giving it a matte off the lot look.&lt;/p&gt;
+
+&lt;p&gt;I then went over the car with a second layer of wax, this time I used Mothers FX Engineered SynWax. Reason being is that synthetic wax lasts longer than a comparable carnauba based wax.&lt;/p&gt;
+
+&lt;figure class=&quot;third full&quot;&gt;
+  
+    
+      &lt;a href=&quot;http://localhost:4000/images/PersonalProjects/EchoDetail/11.JPG&quot; title=&quot;2004 Toyota Echo, hood shot, post Syn Wax.&quot;&gt;
+        &lt;img src=&quot;http://localhost:4000/images/PersonalProjects/EchoDetail/11.JPG&quot; alt=&quot;Shot of the hood after the first layer of Syn Wax.&quot; /&gt;
+      &lt;/a&gt;
+    
+  
+    
+      &lt;a href=&quot;http://localhost:4000/images/PersonalProjects/EchoDetail/12.JPG&quot; title=&quot;2004 Toyota Echo, roof shot, post Syn Wax.&quot;&gt;
+        &lt;img src=&quot;http://localhost:4000/images/PersonalProjects/EchoDetail/12.JPG&quot; alt=&quot;Shot of the hood after the first layer of Syn Wax.&quot; /&gt;
+      &lt;/a&gt;
+    
+  
+    
+      &lt;a href=&quot;http://localhost:4000/images/PersonalProjects/EchoDetail/13.JPG&quot; title=&quot;2004 Toyota Echo, rear/side shot, post Syn Wax.&quot;&gt;
+        &lt;img src=&quot;http://localhost:4000/images/PersonalProjects/EchoDetail/13.JPG&quot; alt=&quot;Shot of the hood after the first layer of Syn Wax.&quot; /&gt;
+      &lt;/a&gt;
+    
+  
+    
+      &lt;a href=&quot;http://localhost:4000/images/PersonalProjects/EchoDetail/14.JPG&quot; title=&quot;2004 Toyota Echo, side shot, post Syn Wax.&quot;&gt;
+        &lt;img src=&quot;http://localhost:4000/images/PersonalProjects/EchoDetail/14.JPG&quot; alt=&quot;Shot of the hood after the first layer of Syn Wax.&quot; /&gt;
+      &lt;/a&gt;
+    
+  
+    
+      &lt;a href=&quot;http://localhost:4000/images/PersonalProjects/EchoDetail/15.JPG&quot; title=&quot;2004 Toyota Echo, side shot, post Syn Wax.&quot;&gt;
+        &lt;img src=&quot;http://localhost:4000/images/PersonalProjects/EchoDetail/15.JPG&quot; alt=&quot;Shot of the hood after the first layer of Syn Wax.&quot; /&gt;
+      &lt;/a&gt;
+    
+  
+    
+      &lt;a href=&quot;http://localhost:4000/images/PersonalProjects/EchoDetail/16.JPG&quot; title=&quot;2004 Toyota Echo, side shot, post Syn Wax.&quot;&gt;
+        &lt;img src=&quot;http://localhost:4000/images/PersonalProjects/EchoDetail/16.JPG&quot; alt=&quot;Shot of the hood after the first layer of Syn Wax.&quot; /&gt;
+      &lt;/a&gt;
+    
+  
+    
+      &lt;a href=&quot;http://localhost:4000/images/PersonalProjects/EchoDetail/17.JPG&quot; title=&quot;2004 Toyota Echo, hood shot, post Syn Wax.&quot;&gt;
+        &lt;img src=&quot;http://localhost:4000/images/PersonalProjects/EchoDetail/17.JPG&quot; alt=&quot;Shot of the hood after the first layer of Syn Wax.&quot; /&gt;
+      &lt;/a&gt;
+    
+  
+  
+    &lt;figcaption&gt;The end results, well a picture is worth a thousand words, just see for yourself.
+&lt;/figcaption&gt;
+  
+&lt;/figure&gt;
+
+&lt;p&gt;Products used;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Wand wash with foaming soap&lt;/li&gt;
+  &lt;li&gt;Meguiars Clay with Griots Speed Shine for lubrication&lt;/li&gt;
+  &lt;li&gt;Griots Long Lasting Tire Dressing for that “off the lot OEM” look&lt;/li&gt;
+  &lt;li&gt;Meguiars Cleaner wax&lt;/li&gt;
+  &lt;li&gt;Mothers FX Engineered SynWax&lt;/li&gt;
+  &lt;li&gt;Meguiars Interior detailer (I didn’t take any pics of the interior but it looked a lot better after detailing)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;my-awesome-lemonaid-recipe&quot;&gt;My Awesome Lemonaid Recipe&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Juice of 1 Lemon&lt;/li&gt;
+  &lt;li&gt;1 tsp Baking Soda&lt;/li&gt;
+  &lt;li&gt;2 Tbsp Sugar&lt;/li&gt;
+  &lt;li&gt;500 mL of Water&lt;/li&gt;
+  &lt;li&gt;2 or 3 mint leaves (muddled)&lt;/li&gt;
+  &lt;li&gt;Garnish with sprig of mint&lt;/li&gt;
+&lt;/ul&gt;</content><author><name>Jeremi Chiu</name></author><category term="detailing" /><category term="wax" /><category term="wash" /><category term="paint" /><category term="drive" /><category term="protect" /><summary type="html">This is one of the first car detailing jobs I ever did when I started to get more interested in car detailing in 2013/2014.</summary></entry><entry><title type="html">First Post</title><link href="http://localhost:4000/First-Post/" rel="alternate" type="text/html" title="First Post" /><published>2016-07-20T00:00:00-07:00</published><updated>2016-07-20T00:00:00-07:00</updated><id>http://localhost:4000/First-Post</id><content type="html" xml:base="http://localhost:4000/First-Post/">&lt;p&gt;testing&lt;/p&gt;</content><author><name>Jeremi Chiu</name></author><summary type="html">testing</summary></entry></feed>
